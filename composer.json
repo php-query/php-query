@@ -1,5 +1,6 @@
 {
     "name": "php-query/php-query",
+    "description": "phpQuery is a PHP library that enables you to parse HTML and manipulate the DOM using jQuery-like syntax. This repository aims to create a PHP 8.x ready version derived from the original code available in the [Google Code Archive](https://code.google.com/archive/p/phpquery/).",
     "type": "library",
     "license": "MIT",
     "autoload": {
