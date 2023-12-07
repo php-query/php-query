@@ -1,0 +1,11 @@
+{
+    "name": "php-query/php-query",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpQuery\\": "src/"
+        }
+    },
+    "require": {}
+}
